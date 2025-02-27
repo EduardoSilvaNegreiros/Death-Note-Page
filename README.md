@@ -1,5 +1,7 @@
 # Death Note Landing Page
 
+![Death Note Landing Page](https://github.com/EduardoSilvaNegreiros/Death-Note-Page/blob/main/deathnote.png?raw=true)
+
 Bem-vindo à **Landing Page de Death Note**, uma página dedicada ao famoso anime e mangá japonês. Esta página foi criada utilizando **HTML e CSS** e tem como objetivo fornecer informações sobre a série, seus personagens principais e oferecer uma experiência visual envolvente para os fãs.
 
 ## Sobre o Projeto
@@ -31,4 +33,4 @@ Se você deseja contribuir com este projeto, sinta-se à vontade para enviar um 
 - ✨ **Novas funcionalidades**  
 - ⚡ **Otimizações de performance**  
 
-Ficamos felizes com qualquer tipo de colaboração! 
+Fico feliz com qualquer tipo de colaboração! 
