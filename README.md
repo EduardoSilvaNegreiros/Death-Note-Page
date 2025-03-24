@@ -33,4 +33,4 @@ Se você deseja contribuir com este projeto, sinta-se à vontade para enviar um 
 - ✨ **Novas funcionalidades**  
 - ⚡ **Otimizações de performance**  
 
-Fico feliz com qualquer tipo de contribuição!
+Fico feliz para qualquer tipo de contribuição!
